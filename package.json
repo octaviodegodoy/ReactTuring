@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/octaviodegodoy/ReactTuring/issues"
   },
-  "homepage": "https://github.com/octaviodegodoy/ReactTuring#readme"
+  "homepage": "https://github.com/octaviodegodoy/ReactTuring#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
